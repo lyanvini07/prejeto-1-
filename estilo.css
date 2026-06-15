@@ -1,4 +1,17 @@
-body{  
+@import url ('https://fonts.googleapis.com/css2?family=abril+fatfacer&display=swap');
+
+*{     
+margin 0;
+padding 0;
+}
+  
+body {   
 background-color: black; 
 color: white;
+font-family: ;
+}
+.cabecalho{   
+    text-align: center;
+    background-color: blue;
+    padding: 30x; ;
 }
